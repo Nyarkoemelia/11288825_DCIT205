@@ -11,9 +11,9 @@ we employ the basics command dog git and github the entire project was cloned fr
 the remote repository.The project was finnaly forked from the public repository and a pull request was raised to merge the branches
 with the TA'S created repository. all tne branches were finally merged together.
 
-## Name:
+## Name: Emelia Ampofo
 ## ID:11288825
-## Emelia Ampofo
+
 
 
 
