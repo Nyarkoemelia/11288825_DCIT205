@@ -1,1 +1,1 @@
-# DCIT_205_IA
+## The introductoin and the purpose of the website
