@@ -4,3 +4,5 @@ that host the relevant imformation of Department its ability to usher students a
 to obtain crutial information. The very aim of the website is help students and the genral public to access information 
 and the wherabout of the their institution. Again it aims as providing the neccessary information and the man locations of the 
 Department.
+
+## How the project was cloned and set up 
