@@ -19,3 +19,18 @@ with the TA'S created repository. all tne branches were finally merged together.
 
 
 
+
+
+
+
+
+
+
+
+## Lessons 
+
+
+
+
+
+
