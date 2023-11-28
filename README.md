@@ -10,3 +10,6 @@ The idea of cloniing the repository and the final set up of the was done main by
 we employ the basics command dog git and github the entire project was cloned from vscode that by the a git command and was push 
 the remote repository.The project was finnaly forked from the public repository and a pull request was raised to merge the branches
 with the TA'S created repository. all tne branches were finally merged together.
+
+## Name:
+## ID:11288825
