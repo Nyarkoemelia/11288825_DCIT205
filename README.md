@@ -14,6 +14,9 @@ with the TA'S created repository. all tne branches were finally merged together.
 ## Name: Emelia Ampofo
 ## ID:11288825
 
+## Page 1
+![ScreenShot png](https://github.com/Nyarkoemelia/11288825_DCIT205/assets/152034790/7b3eb0cf-cbac-42f5-a852-868c22f75c2d)
+
 
 
 
