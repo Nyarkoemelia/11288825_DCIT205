@@ -6,3 +6,7 @@ and the wherabout of the their institution. Again it aims as providing the necce
 Department.
 
 ## How the project was cloned and set up 
+The idea of cloniing the repository and the final set up of the was done main by the rules and idea of git and github
+we employ the basics command dog git and github the entire project was cloned from vscode that by the a git command and was push 
+the remote repository.The project was finnaly forked from the public repository and a pull request was raised to merge the branches
+with the TA'S created repository. all tne branches were finally merged together.
