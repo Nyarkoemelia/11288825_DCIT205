@@ -17,6 +17,10 @@ with the TA'S created repository. all tne branches were finally merged together.
 ## Page 1
 ![ScreenShot png](https://github.com/Nyarkoemelia/11288825_DCIT205/assets/152034790/7b3eb0cf-cbac-42f5-a852-868c22f75c2d)
 
+## page 2
+
+![Screenshoot png](https://github.com/Nyarkoemelia/11288825_DCIT205/assets/152034790/89e1b4e3-d035-45dc-a49d-d4d97eb6d8a2)
+
 
 
 
