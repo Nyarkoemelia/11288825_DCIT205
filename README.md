@@ -47,7 +47,7 @@ with the TA'S created repository. all tne branches were finally merged together.
 
 ## Lessons 
 It has helped me to improve my coding skills and also established the acquired skills of programming.
-Apart from knowing how to code, I create or build a website for a lots of companies in Ghana.
+Apart from knowing how to code, I can create or build a website for a lots of companies in Ghana.
 I understanstands the basics structures of css and html.
 Again I can also engage in any problems concerning errors in coding.
 
